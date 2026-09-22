@@ -33,6 +33,9 @@ export const metadata: Metadata = {
       "Digital marketing specialist and content creator based in Trivandrum, Kerala, India.",
     images: [siteConfig.image],
   },
+  verification: {
+    google: "aFfVMR3pa3SSLPTqlbpMCkUeTrw1TM-yfORrFTXOdEc",
+  },
 };
 
 export default function RootLayout({
