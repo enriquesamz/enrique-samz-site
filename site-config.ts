@@ -1,5 +1,5 @@
 export const siteConfig = {
-  url: "http://localhost:3000",
+  url: "https://enrique-samz.pages.dev",
   name: "Enrique Samz",
   jobTitle: "Digital Marketing Specialist & Content Creator",
   image: "/enrique-samz-digital-marketing-specialist.jpg",
